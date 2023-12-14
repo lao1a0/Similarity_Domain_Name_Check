@@ -1,0 +1,6 @@
+fuzzer,domain,score,dns_record,LSH_score
+addition,www.sblngco.com,0.0,34.102.136.180,0
+addition,www.cnblogs.com,0.0,"114.55.187.58,101.37.115.180,114.55.205.139",100
+addition,www.cnhlogs.com,0.0,"198.54.117.217,198.54.117.212,198.54.117.210",0
+addition,www.ncsblog.com,0.0,"34.205.242.146,54.161.222.85",0
+addition,www.cjblogs.com,0.0,"3.140.13.188,18.119.154.66",0

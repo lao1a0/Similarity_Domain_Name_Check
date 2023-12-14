@@ -1,0 +1,12 @@
+fuzzer,domain,score
+tld-swap,www.boc.bg,4.440892098500626e-16
+tld-swap,www.boc.no,4.440892098500626e-16
+tld-swap,www.boc.io,0.0
+addition,www.bdc.cn,0.0
+addition,www.boc.cn,0.0
+addition,www.4oc.cn,0.0
+addition,www.joc.cn,0.0
+tld-swap,www.boc.ca,0.0
+addition,www.cbo.cn,0.0
+addition,www.b0c.cn,0.0
+tld-swap,www.boc.com,0.03527522831505747

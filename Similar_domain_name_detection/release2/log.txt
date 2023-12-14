@@ -1,0 +1,475 @@
+nohup: ignoring input
+['nos.pt', 'richmondraceway.com', 'onistudios.gg', 'vogel.de', 'ilsole24ore.com', 'zeit.de', 'bestversionmedia.com', 'dpv.de', 'handelsblatt.com', 'pwn.pl', 'cengage.com', 'revved-industries.com', 'ls2usa.com', 'fliteboard.com', 'bbbcycling.com', 'ridegg.com', 'combatcorner.com', 'ecoles-de-production.com', 'eduhubspot.com', 'pilkepaivakodit.fi', 'utdallas.edu', 'umn.edu', 'uga.edu', 'newcaneyisd.org', 'lnu.se', 'washk12.org', 'district100.com', 'tulane.edu', 'cliu.org', 'childrenschoice.com', 'nextkbh.dk', 'kyschools.us', 'metasolutions.net', 'univ-lorraine.fr', 'harrison.edu', 'ipb.pt', 'unidu.hr', 'ucr.edu', 'askbhsc.org', 'tahlequahschools.org', 'dal.ca', 'iesabroad.org', 'edgeeyewear.com', 'siderpighi.it', 'optazoom.com', 'suttonhomefashions.com', 'tomarco.com', 'copperriverseafoods.com', 'handcraftmfg.com', 'gaffney-kroese.com', 'algol.fi', 'procook.co.uk', 'ismash.com', 'dreamline.com', 'purell.eu', 'exertissupplies.co.uk', 'maxfinkelstein.com', 'nebraskaland.com', 'garlandrug.com', 'optovision.com', 'geminirosemont.com', 'easyknock.com', 'engelvoelkers.com', 'gutermanpartners.com', 'lacbor.org', 'phila.gov', 'premierepropertygroup.com', 'evusa.com', 'bairdwarner.com', 'rentprogress.com', 'keyes.com', 'reecenichols.com', 'unitedrealestate.com', 'c21everest.com', 'tcu.edu', 'murney.com', 'coldwellbankerprime.com', 'lelandmanagement.com', 'sellstate.com', 'remaxcfl.com', 'svarealtors.com', 'viacapitalevendu.com', 'kappinfrastructure.com', 'p2sworld.com', 'ghella.com', 'atlasbtw.com', 'guerdon.com', 'wohlsenconstruction.com', 'summit-contracting.com', 'huesker.com', 'hotworx.net', 'toneitup.com', 'eql.ai', 'rn.dk', 'hawaii.gov', 'orthocarolina.com', 'well.company', 'state.nv.us', 'oanj.com', 'crihan.fr', 'nisuscorp.com', 'daycon.com', 'forshaw.com', 'crcorp.com', 'disarp.com', 'cnr.it', 'shinetsusilicones.com', 'la-mesta.com', 'u-picardie.fr', 'kayakuam.com', 'flash.nl', 'excell-living.com', 'pontetorto.it', 'sunham.com', 'brutex.com', 'johnritz.com', 'westchesterlace.com', 'eurekapm.com', 'arkansas.gov', 'joneslumberco.com', 'andritz.com', 'roseburg.com', 'cflflooring.com', 'boisepaper.com', 'bluebuffalo.com', 'bielsko.pl', 'graphiccommunications.com', 'saveplac.com', '3sigma.cc', 'webctp.com', 'victorstationery.com', 'procarton.net', 'dvcplywood.com', 'greensimplicity.com', 'weareonna.no', 'nuleaffarms.ca', 'stokeseeds.com', 'upc.edu', 'commoditag.com', 'actura.fr', 'tools.sap', 'neterra.net', 'truveris.com', 'fullrate.dk', 'voip.ms', 'alianza.com', 'myfitnesspal.com', 'artelecom.pt', 'momentfeed.com', 'digita.fi', 'revotas.com', 'rolustech.com', 'citynet.net', 'fresh.land', 'virtru.com', 'zdnet.com', 'ankr.com', 'sarenet.es', 'evaluar.com', 'adveris.fr', 'broadvoice.com', 'arundo.com', 'inconcertcc.com', 'gradwell.com', 'firstdigital.com', 'icontroller.eu', 'aave.com', 'ipnordic.dk', 'cmsw.com', 'de-cix.net', 'observeinc.com', 'n-side.com', 'dtechsystems.co', 'lleida.net', 'onenorth.com', 'clariba.com', 'quickline.ch', 'agorize.com', 'moven.com', 'retn.net', 'smartling.com', 'skyvision.net', 'mparticle.com', 'zilliqa.com', 'hexanet.fr', 'pharmasecure.com', 'webmotors.com.br', 'yamaha.com', 'samcart.com', 'magic.fr', 'canvasmedical.com', 'innovasur.com', 'pointsbet.com', 'digiweb.ie', 'innovaphone.com', 'underwriteme.co.uk', 'fibrenoire.ca', 'alterway.fr', 'esalon.com', 'ubicquia.com', 'aql.com', 'volusion.com', 'pulselive.com', 'govpredict.com', 'clearwave.com', 'uen.org', 'duckduckgo.com', 'adzuna.co.uk', 'backstopsolutions.com', 'retelit.it', 'verticalresponse.com', 'onsip.com', 'outscale.com', 'linuxfoundation.org', 'mailinblack.com', 'veracitynetworks.com', 'alphalink.fr', 'boardeffect.com', 'coredial.com', 'groove.co', 'wightman.ca', 'fl1.li', 'waycom.net', 'splio.com', 'gigamonster.net', 'solarus.net', 'iskon.hr', 'renater.fr', 'ryerson.ca', 'firstcomm.com', 'bergamotte.com', 'zankyou.com', 'vtx.ch', 'vianet.ca', 'clearrate.com', 'photoshelter.com', 'photobucket.com', 'telecable.es', 'he.net', 'baidu.com', 'adamo.es', 'linode.com', 'netlify.com', 'teachable.com', 'syringanetworks.net', 'scarlet.be', 'twt.it', 'ximasoftware.com', 'allocloud.com', 'findyourmaven.com', 'ip5280.com', 'mavenwireless.com', 'uat.edu.mx', 'spirentfederal.com', 'usmobile.com', 'chinamobile.com', 'fraudbuster.mobi', 'trulia.com', 'hotmart.com', 'meetup.com', 'lotte.com', 'digitalinsight.com', 'kognitiv.com', 'opera.com', 'telenav.com', 'priceline.com', 'trustpilot.com', 'shoplineapp.com', 'on24.com', 'care.com', 'skroutz.gr', 'peoplemedia.com', 'techtarget.com', 'immowelt.de', 'apartments.com', 'immobilienscout24.de', 'moneysupermarket.com', 'amobee.com', 'chiapas.gob.mx', 'web.com', 'brandwatch.com', 'verisign.com', 'nordstrom.com', 'spreadshirt.com', 'taboola.com', 'spartoo.com', 'experian.com', 'americaneagle.com', 'art.com', 'braze.com', 'navisite.com', 'upcbusiness.cz', 'ipv4.global', 'digitalwholesalesolutions.com', 'globalcapacity.com', 'velocix.com', 'usclaro.com', 'huawei.com', 'answeringlegal.com', 'bredbandsbolaget.se', 'destiny.be', 'lounea.fi', 'upv.es', 'woltcom.com', 'ahrt.hu', 'swan.sk', 'exatel.pl', 'clouditalia.com', 'tele2.ee', 'infocom.ua', 'furtherllc.com', 'homesc.com', 'lstelcom.com', 'derytele.com', 'captel.com', 'group-egnatia.com', 'comwave.net', 'cablebahamas.com', 'icomera.com', 'grill584.com', 'eatwalnut.com', 'quiznos.com', 'clancysinc.com', 'schrodermarine.net', 's-5.org', 'bargeacbl.com', 'bwiairport.com', 'hawaiianairlines.com', 'up.com', 'trinityhighway.com', 'bccp.co.uk', 'ridesta.com', 'hollandregional.com', 'kleinmarinesystems.com', 'securityself-storage.com', 'jorgensoncompanies.com', 'yesequipment.com', 'terminaltransfer.com', 'senecamedical.com', 'actionwp.com', 'mersalalbalad.com', 'gocbt.com', 'jetlinx.com', 'turbineblades.co.uk', 'tampaairport.com', 'generalunited.net', 'reinauer.com', 'libertylines.it', 'airbornepersonnel.info', 'spanopoulos-group.com', 'gestionmaritime.com', 'com.de', 'amazon.co.uk', 'sachsen.de', 'moneta.cz', 'bpifrance.fr', 'comdirect.de', 'creditmutuel.fr', 'zurbank.de', 'kbc.be', 'caixabank.es', 'krakow.pl', 'pih.co.uk', 'landlordaction.co.uk', 'state.nj.us', 'univ-nantes.fr', 'irs.gov', 'justice.gov.uk', 'essex.ac.uk', 'univ-paris13.fr', 'icl-worldwide.us', 'beck.de', 'telegraph.co.uk', 'fuerzacomercial.es', 'beth.k12.pa.us', 'ua.pt', 'u-bordeaux2.fr', 'univ-fcomte.fr', 'wbs.ac.uk', 'univ-lemans.fr', 'zhaw.ch', 'service.gov.uk', 'exaprint.fr', 'liquider.eu', 'akz.lv', 'hvsa.es', 'theafgroup.co.uk', 'uco.es', 'clio.it', 'mycitydeal.no', 'musicmagpie.co.uk', 'bizphone4u.com', 'matechgroup.ca', 'a1.si', 'paritel.fr', 'juntadeandalucia.es', 'slovanet.sk', 'emt.ee', 'outremer-telecom.fr', '4com.co.uk', 'keysfcu.org', 'cbbonline.com', 'americannationwide.com', 'sunrise.bank', 'mortgageslab.ca', 'soleilbank.com', 'ten31.com', 'bankingon.io', 'mandm.consulting', 'bonanzabanco.com.do', 'invictusgrp.com', 'tnbankers.org', 'epayresources.org', 'alatrustcu.com', 'victorybank.com', 'abdallas.bank', 'fedfis.com', 'desjardins.com', 'shcpfoundation.org', 'floridafirst.com', 'financialonecu.com', 'stlouisfed.org', 'askamortgageunderwriter.com', 'ebrd.com', 'jpmorganchase.com', 'bankofamerica.com', 'thehsaauthority.com', 'greatsouthernbank.com', 'kbc-group.com', 'camdennational.com', 'elevationscu.com', 'farmcreditbank.com', 'connectonebank.com', 'bank.com', 'cbandt.com', 'midcountry.bank', 'investarbank.com', 'florencebank.com', 'vantagewest.org', 'coastal24.com', 'coastalenergy.com', 'st9go.com', 'extractionog.com', 'bureauveritas.com', 'e2g.com', 'rrccompanies.com', 'ou.edu', 'rwe.com', 'wsphl.com', 'aps.com', 'q8oils.com', 'sanconltd.com', 'aepenergy.com', 'wildwell.com', 'morrisonenergy.com', 'illinoislegalaid.org', 'gjp.org', 'massadvocates.org', 'verasafe.com', 'legal-revolution.com', 'sdl.com', 'forthepeople.com', 'usattorneys.com', 'laterallink.com', 'forensicdjs.com', 'anaqua.com', 'nextpoint.com', 'firstliberty.org', 'lclc.net', 'strategicprocurementsolutions.com', 'g100network.com', 'bcg.com', 'ibm.com', 'rapidld.com', 'oomc.com', 'directcontact.com', 'viotas.com', 'mcecleanenergy.org', 'powertakeoff.com', 'pcec.coop', 'bge.com', 'spartanburgwater.org', 'upf.edu', 'se.com', 'meridianwaste.com', 'matthewsenvironmental.com', 'arcainc.com', 'iamother.com', 'heymantalent.com', 'pantaya.com', 'genomeweb.com', 'pcmag.com', 'shopaba.org', 'nouvelobs.com', 'southcomm.com', 'motorsport.com', 'dowjones.com', 'nature.com', 'bmj.com', 'sagepub.com', 'condenast.com', 'nationalgeographic.com', 'economist.com', 'fiveultimate.com', 'wagnerskis.com', 'striderbikes.com', 'kbsgolfshafts.com', 'rimonthly.com', 'exhibitoronline.com', 'beaumondetraveler.com', 'sjsu.edu', 'usu.edu', 'sccoe.org', 'iltexas.org', 'ets.org', 'mheducation.com', 'gatewayct.edu', 'uci.edu', 'tifp.com', 'ppeis.com', 'siteone.com', 'uri.com', 'ultraboard.com', 'shopapt.com', 'kaercher.com', 'wernermn.com', 'bulq.com', 'columbiapipe.com', 'ohtpartners.com', 'optimhome.com', 'cartus.com', 'bigblockrealty.com', 'premiereplusrealty.com', 'cbshome.com', 'orchard.com', 'imtresidential.com', 'bhhsnj.com', 'flco.com', 'rickcontino.com', 'ernesthomes.com', 'gardnerrealtors.com', 'bhhsnv.com', 'coldwellhomes.com', 'foundocean.com', 'marchassociates.com', 'ecstechnicalservices.com', 'brasfieldgorrie.com', 'sunstateequip.com', 'absherco.com', 'blytheconstruction.com', 'bodygears.com', 'windycitycannabis.com', 'healthyeating.org', 'pilatesreformingny.com', 'bsu.edu', 'amadaseniorcare.com', 'mambasportsacademy.com', 'theperfectworkout.com', 'myterrio.com', 'thpg.org', 'wellnow.com', 'tcomn.com', 'straumann.com', 'nmhcare.org', 'duke.edu', 'physiciansgroupservices.com', 'textileexchange.org', 'jeffreycourt.com', 'bbsmartsolutions.com', 'lawtonconnect.com', 'hp.com', 'alphagraphics.com', 'imascoltd.com', 'tulkoff.com', 'proteinresearch.com', 'devancofoods.com', 'harvestplus.org', 'rodem.com', 'pacificcoastproducers.com', 'curationfoods.com', 'themaschhoffs.com', 'michaelfoods.com', 'bonduelle.com', 'agrogeneration.com', 'webergenterprises.com', 'naturlich.ro', 'amtab.com', 'surleanfoods.com', 'burkecorp.com', 'growersexpress.com', 'gillsonions.com', 'kagomeusa.com', 'greenseedcp.com', 'bamboohr.com', 'downsfoodgroup.com', 'discoveryfoods.com', 'mousquetaires.com', 'exberry.com', 'chudleighs.com', 'myshopify.com', 'smaxtec.com', 'agrando.com', 'vgandsons.com', 'kanequip.com', 'heritagetractor.com', 'trigreenequipment.com', 'telekom.net', 'idecnet.com', 'voxloud.com', 'cococorp.com', 'spokephone.com', 'internetofthings.business', 'opennetworking.org', 'dish.com', 'telecompaper.com', 'mhdcommunications.com', 'browserstack.com', 'pubmatic.com', 'outbrain.com', 'usertesting.com', 'is.com', 'rakuten.com', 'vimeo.com', 'clover.com', 'liquidweb.com', 'takeaway.com', 'digicert.com', 'privalia.com', 'upwork.com', 'ebth.com', 'bluehost.com', 'travix.com', 'glam.com', 'jobandtalent.com', 'kpn.com', 'roamingman.com', 'vyvebroadband.com', 'fmtg.net', 'connectivasystems.com', 'northskycomm.com', '5rmarketing.dk', 'onvoy.com', 'inexio.net', 'alphaconnect.com', 'itstriangle.com', 'tbaytel.net', 'starleaf.com', 'panatelcomm.com', 'vodafone.com', 'thalesgroup.com', 'beanfield.com', 'earthlink.net', 'sigfox.com', 'ntt.net', 'bahnhof.se', 'cypresscom.net', '123.net', 'fonality.com', 'melita.com', 't-2.net', 'h2owirelessnow.com', 'breadzeppelin.com', 'baofamily.co', 'restaurant.com', 'champsnr.com', 'bagelboss.com', 'fuzzystacoshop.com', 'rangementprisma.com', 'sealiftcommand.com', 'primeappearance.com', 'cmishipmanagement.com', 'littlemanparking.com', 'ukrcopter.com', 'vestlandoffshore.no', 'kwai.com', 'www.yuanbaotech.cn', 'o.yuanbaotech.cn', 'a.yuanbaotech.cn', 'b.yuanbaotech.cn', 'yuanbaotech.com', 'm.yuanbaotech.cn', 'e.yuanbaotech.cn', 'poi.yuanbaotech.cn', 'zailaboratory.com', 'thecovie.com', 'thecutesteam.com', 'diamondsuite.nl', 'londondoctorsclinic.co.uk', 'thedob.com.au', 'tdlpathology.com', 'fpi.co.za', 'travelerscoffee.ru', 'trebeschi.com.br', 'treeofliferesorts.com', 'trell.co', 'trimarinegroup.com', 'tribestays.com', 'tricon.co.uk', 'tri-chile.cl', 'tridenthotel.com', 'tridenthotels.com', 'trifectame.com', 'trilegal.com', 'trioalimentos.com.br', 'clcorporation.com', 'ddd-farms.com', 'leisurevans.com', 'tripple-em.com.pk', 'trixxo.be', 'trouwnutrition.com.br', 'tru.id', 'truedigital.com', 'truev.co.uk', 'truestudent.com', 'trukkin.com', 'trustbank.dz', 'trustly.net', 'tsbsugar.co.za', 'thici.com', 'tugbakuruyemis.com.tr', 'fresh-seasons.com', 'turbodokha.ca', 'turim-hotels.com', 'turktelekom.com.tr', 'tsb.org.tr', 'kooperatifmarket.com.tr', 'turkiye.ai', 'turkunholding.com', 'turosi.com.au', 'tuev-nord-group.com', 'tvfood.com.vn', 'tad.co.za', 'cigarbank.eu', 'uaebf.ae', 'uapl.fr', 'ucayali.com.br', 'ucl.co.za', 'ucrowdme.com', 'udaan.com', 'uisa.com.br', 'uiterwaarde.nl', 'uitinzuid.nl', 'ukuma.co.za', 'Ulbrich.com', 'ulduz.com.az', 'umastays.com', 'umba.com', 'umbhaba.biz', 'unapel.com.br', 'uniban.com', 'unicohotels.com', 'unicornh.com', 'uam.com.uy', 'unifertil.com.br', 'uniflame.gr', 'unifynd.com', 'unimil.com.br', 'unionbankng.com', 'sa-ucb.com', 'uniqa.dk', 'uniquegroup.com', 'unissu.com', 'unitedcruiser.com', 'ufa.com', 'deemah.com', 'united.ma', 'united-snacks.com', 'unithai.com', 'unium.coop.br', 'ucmrussia.com', 'uniymca.edu.mx', 'unixauto.hu', 'uno.com.tr', 'unread.media', 'up2play.fr', 'upraised.co', 'urbancompany.com', 'urbancropsolutions.com', 'urbanhotel.com.ua', 'urbanplay.com.au', 'urbanladder.com', 'urbanpubsandbars.com', 'urbanrec.com.au', 'urbansportsclub.com', 'urbaser.com', 'ureed.com', 'hotelurso.com', 'uship.fr', 'carolo.com.br', 'usacucar.com.br', 'usd.ind.br', 'usj.com.br', 'alimentosnative.com.br', 'uui.com.br', 'vistalegre.ind.br', 'uspar.com.tr', 'uvlatam.com', 'vcrew.com', 'vaccinar.com.br', 'vacway.com', 'vagashomeoffice.net', 'vahan.ai', 'vakansa.se', 'vakkarumaldives.com', 'vakrangee.in', 'valedoivai.com.br', 'valentinhotels.com', 'valencequimica.com.br', 'valeofoods.com', 'swiss-belhotel.com', 'vallianzholdings.com', 'valoo.io', 'valomotion.com', 'valoriza.agr.br', 'valrhona.com', 'valuebase.co.il', 'valuefy.com', 'vanegdom.nl', 'vangeloven.com', 'vanwaveren.de', 'vh-hospitality.com', 'vangproperties.com', 'vapedubai.ltd', 'vapesandtobacco.com', 'vapetraveller.com', 'vapiano.com', 'vaping.com', 'vaporshopdirect.com', 'varaluae.com', 'varshana.com.br', 'varsigma.com', 'vasatorp.golf', 'vasham.co.id', 'vbalimentos.com.br', 'veat.se', 'vdbholiday.com', 'vecourbandesign.com', 'tobaccofirm.com', 'veganonthemap.com', 'vegberry.com', 'vegpro.com', 'bit.ly', 'veirano.com.br', 'valeoconfectionery.com', 'universalcsc.com', 'unifran.edu.br', '2seasonshotels.com', 'trinityvietnam.vn', 'finibr.com', 'thefirm.ie', 'thefirstgroup.com', 'the-fixer.co.uk', 'thefloor.io', 'theforum.co.za', 'thefutureofbanking.info', 'thegoldclass.com', 'thegoody.com.au', 'thegreatroom.co', 'progrp.ru', 'thegroup.com.qa', 'thegrove.co.uk', 'gmgplc.co.uk', 'guildproperty.co.uk', 'hhoteldubai.com', 'thehabitat.my', 'thehostel.com.br', 'hotelmetro.com.au', 'hurlinghamclub.org.uk', 'kclub.ie', 'thejcgroups.com', 'thekidsnetwork.org.uk', 'kovecollection.co.za', 'skilouise.com', 'theleela.com', 'littlepotatoes.com', 'lobehold.com', 'thelodhi.com', 'anantara.com', 'marmaranyc.com', 'meridian.africa', 'merrionhotel.com', 'midfield.com.au', 'theministry.com', 'themodernisthotels.com', 'thenautilusmaldives.com', 'thenine.be', 'theofficegroup.com', 'theorganicfarm.in', 'theotpractice.co.uk', 'theoterra.com', 'thepeople.co.za', 'thepalacelife.com', 'theplace.group', 'playinspections.co.uk', 'theproductfolks.com', 'parktonian.co.za', 'redcarnationhotels.com', 'regency.com.kw', 'trcaa.com', 'therepresentative.co.in', 'thesingular.com', 'thesplash.uk', 'thestudenthotel.com', 'thetamara.com', 'tomatin.com', 'thetranshotel.com', 'universalbg.com', 'unlimited-group.co.za', 'vancouverclub.ca', 'thevidaconsultancy.com', 'the-vines.com', 'walbrook-club.co.uk', 'theworkingcapitol.com', 'the-yeatman-hotel.com', 'thezurihotels.com', 'thehospitalitynetwork.com', 'soundtrack.cafe', 'thinkbighotel.com', 'thirtyone.fr', 'thomasco.co.za', 'thomsun.com', 'threestreams.co.za', 'three60.ae', 'ttp-me.com', 'thyssenkrupp-materials.fr', 'tibiaan.com', 'tickledmedia.com', 'tpbs.com.vn', 'fountain.com', 'tiffany-mannheim.de', 'tiki.id', 'tilabras.com.br', 'tilhill.com', 'time.com.my', 'timescope.com', 'timpsonlocksmiths.co.uk', 'tinvio.com', 'tinycapital.com', 'tinyparks.nl', 'tiplo.be', 'tiryaki.com.tr', 'tlcgroup.com', 'fenster-tueren-technik.de', 'tnfsolutions.com', 'tnt-brothers.ro', 'fedex.com', 'the-tma.org.uk', 'tobacco.nl', 'tobacco1.com', 'doutniky-praha.cz', 'tokopedia.com', 'tomashnos.com.ar', 'tonikbank.com', 'tonsleyhotel.com.au', 'tootoon.co', 'topico.com.br', 'topotels.com', 'toropuro.com', 'tahotel.com.au', 'toruun.com.tr', 'tosseduk.com', 'totaldiving.com', 'totallywicked.pk', 'touchngo.com.my', 'touristlink.com', 'toworkbr.com', 'toyoko-inn.com', 'tozzinifreire.com.br', 'tpc.co.tz', 'tpsworldwide.com', 'tracan.com.br', 'tractorjunction.com', 'tradecorp.com.br', 'tradecorp.pt', 'trademanza.com', 'tradeville.eu', 'tpb.com.my', 'trailscapes.com.au', 'trakyabirlik.com.tr', 'transamericagroup.com.br', 'trangels.com', 'transearch.com', 'plimor.com.br', 'trashcon.in', 'travaudit.ma', 'themaine.ae', 'preventsenior.com.br', 'previsico.com', 'sunporkfreshfoods.com.au', 'sunrice.com.au', 'sfcoman.com', 'sunshinegroup.nl', 'skibanff.com', 'sunway.com.my', 'super1rent.dk', 'superfrio.com.br', 'superfruit.cl', 'suppletek.in', 'tanmiah.com', 'surf-lakes.com.au']Total program time 27.98s
+<<File: /root/Similar_domain_name_detection/file/nos.pt Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 116.47s
+<<File: /root/Similar_domain_name_detection/file/richmondraceway.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 13.56s
+<<File: /root/Similar_domain_name_detection/file/onistudios.gg Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 39.42s
+<<File: /root/Similar_domain_name_detection/file/vogel.de Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 83.74s
+<<File: /root/Similar_domain_name_detection/file/ilsole24ore.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 34.63s
+<<File: /root/Similar_domain_name_detection/file/zeit.de Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 122.94s
+<<File: /root/Similar_domain_name_detection/file/bestversionmedia.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 29.14s
+<<File: /root/Similar_domain_name_detection/file/dpv.de Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 89.39s
+<<File: /root/Similar_domain_name_detection/file/handelsblatt.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 29.68s
+<<File: /root/Similar_domain_name_detection/file/pwn.pl Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+/root/Similar_domain_name_detection/dependent_function.py:74: FutureWarning: Inferring datetime64[ns, pytz.FixedOffset(660)] from data containing strings is deprecated and will be removed in a future version. To retain the old behavior explicitly pass Series(data, dtype=datetime64[ns, pytz.FixedOffset(660)])
+  pd.DataFrame(domains).to_csv(f_name, index=False, encoding="utf-8")
+Total program time 57.50s
+<<File: /root/Similar_domain_name_detection/file/cengage.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 116.10s
+<<File: /root/Similar_domain_name_detection/file/revved-industries.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 81.16s
+<<File: /root/Similar_domain_name_detection/file/ls2usa.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 89.24s
+<<File: /root/Similar_domain_name_detection/file/fliteboard.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 71.82s
+<<File: /root/Similar_domain_name_detection/file/bbbcycling.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 81.02s
+<<File: /root/Similar_domain_name_detection/file/ridegg.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 84.53s
+<<File: /root/Similar_domain_name_detection/file/combatcorner.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 130.78s
+<<File: /root/Similar_domain_name_detection/file/ecoles-de-production.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 82.02s
+<<File: /root/Similar_domain_name_detection/file/eduhubspot.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 75.01s
+<<File: /root/Similar_domain_name_detection/file/pilkepaivakodit.fi Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 65.58s
+<<File: /root/Similar_domain_name_detection/file/utdallas.edu Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 36.35s
+<<File: /root/Similar_domain_name_detection/file/umn.edu Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 36.08s
+<<File: /root/Similar_domain_name_detection/file/uga.edu Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 86.75s
+<<File: /root/Similar_domain_name_detection/file/newcaneyisd.org Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 30.00s
+<<File: /root/Similar_domain_name_detection/file/lnu.se Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 67.42s
+<<File: /root/Similar_domain_name_detection/file/washk12.org Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 83.17s
+<<File: /root/Similar_domain_name_detection/file/district100.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 118.05s
+<<File: /root/Similar_domain_name_detection/file/tulane.edu Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 44.21s
+<<File: /root/Similar_domain_name_detection/file/cliu.org Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 103.98s
+<<File: /root/Similar_domain_name_detection/file/childrenschoice.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 50.35s
+<<File: /root/Similar_domain_name_detection/file/nextkbh.dk Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 48.15s
+<<File: /root/Similar_domain_name_detection/file/kyschools.us Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 89.31s
+<<File: /root/Similar_domain_name_detection/file/metasolutions.net Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 71.36s
+<<File: /root/Similar_domain_name_detection/file/univ-lorraine.fr Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 64.77s
+<<File: /root/Similar_domain_name_detection/file/harrison.edu Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 27.87s
+<<File: /root/Similar_domain_name_detection/file/ipb.pt Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 35.31s
+<<File: /root/Similar_domain_name_detection/file/unidu.hr Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 36.19s
+<<File: /root/Similar_domain_name_detection/file/ucr.edu Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 62.31s
+<<File: /root/Similar_domain_name_detection/file/askbhsc.org Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 103.91s
+<<File: /root/Similar_domain_name_detection/file/tahlequahschools.org Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 33.64s
+<<File: /root/Similar_domain_name_detection/file/dal.ca Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 81.11s
+<<File: /root/Similar_domain_name_detection/file/iesabroad.org Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 81.77s
+<<File: /root/Similar_domain_name_detection/file/edgeeyewear.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 52.64s
+<<File: /root/Similar_domain_name_detection/file/siderpighi.it Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 54.83s
+<<File: /root/Similar_domain_name_detection/file/optazoom.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 118.74s
+<<File: /root/Similar_domain_name_detection/file/suttonhomefashions.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 48.20s
+<<File: /root/Similar_domain_name_detection/file/tomarco.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 117.47s
+<<File: /root/Similar_domain_name_detection/file/copperriverseafoods.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 95.03s
+<<File: /root/Similar_domain_name_detection/file/handcraftmfg.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 107.44s
+<<File: /root/Similar_domain_name_detection/file/gaffney-kroese.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 36.14s
+<<File: /root/Similar_domain_name_detection/file/algol.fi Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 36.05s
+<<File: /root/Similar_domain_name_detection/file/procook.co.uk Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 77.67s
+<<File: /root/Similar_domain_name_detection/file/ismash.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 80.33s
+<<File: /root/Similar_domain_name_detection/file/dreamline.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 60.71s
+<<File: /root/Similar_domain_name_detection/file/purell.eu Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 63.15s
+<<File: /root/Similar_domain_name_detection/file/exertissupplies.co.uk Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 113.73s
+<<File: /root/Similar_domain_name_detection/file/maxfinkelstein.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 90.94s
+<<File: /root/Similar_domain_name_detection/file/nebraskaland.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 74.59s
+<<File: /root/Similar_domain_name_detection/file/garlandrug.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 72.96s
+<<File: /root/Similar_domain_name_detection/file/optovision.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 94.10s
+<<File: /root/Similar_domain_name_detection/file/geminirosemont.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 75.45s
+<<File: /root/Similar_domain_name_detection/file/easyknock.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 88.01s
+<<File: /root/Similar_domain_name_detection/file/engelvoelkers.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 112.44s
+<<File: /root/Similar_domain_name_detection/file/gutermanpartners.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 113.03s
+<<File: /root/Similar_domain_name_detection/file/lacbor.org Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 55.95s
+<<File: /root/Similar_domain_name_detection/file/phila.gov Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 123.88s
+<<File: /root/Similar_domain_name_detection/file/premierepropertygroup.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 64.20s
+<<File: /root/Similar_domain_name_detection/file/evusa.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 80.00s
+<<File: /root/Similar_domain_name_detection/file/bairdwarner.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 84.95s
+<<File: /root/Similar_domain_name_detection/file/rentprogress.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 50.70s
+<<File: /root/Similar_domain_name_detection/file/keyes.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 85.58s
+<<File: /root/Similar_domain_name_detection/file/reecenichols.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 113.92s
+<<File: /root/Similar_domain_name_detection/file/unitedrealestate.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 73.47s
+<<File: /root/Similar_domain_name_detection/file/c21everest.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 36.58s
+<<File: /root/Similar_domain_name_detection/file/tcu.edu Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 114.36s
+<<File: /root/Similar_domain_name_detection/file/murney.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 149.13s
+<<File: /root/Similar_domain_name_detection/file/coldwellbankerprime.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 97.59s
+<<File: /root/Similar_domain_name_detection/file/lelandmanagement.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 62.16s
+<<File: /root/Similar_domain_name_detection/file/sellstate.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 72.07s
+<<File: /root/Similar_domain_name_detection/file/remaxcfl.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 83.26s
+<<File: /root/Similar_domain_name_detection/file/svarealtors.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 115.49s
+<<File: /root/Similar_domain_name_detection/file/viacapitalevendu.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 126.55s
+<<File: /root/Similar_domain_name_detection/file/kappinfrastructure.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 74.72s
+<<File: /root/Similar_domain_name_detection/file/p2sworld.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 83.21s
+<<File: /root/Similar_domain_name_detection/file/ghella.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 63.01s
+<<File: /root/Similar_domain_name_detection/file/atlasbtw.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 66.24s
+<<File: /root/Similar_domain_name_detection/file/guerdon.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 129.34s
+<<File: /root/Similar_domain_name_detection/file/wohlsenconstruction.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 110.45s
+<<File: /root/Similar_domain_name_detection/file/summit-contracting.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 63.18s
+<<File: /root/Similar_domain_name_detection/file/huesker.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 48.09s
+<<File: /root/Similar_domain_name_detection/file/hotworx.net Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 53.67s
+<<File: /root/Similar_domain_name_detection/file/toneitup.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 25.93s
+<<File: /root/Similar_domain_name_detection/file/eql.ai Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 23.63s
+<<File: /root/Similar_domain_name_detection/file/rn.dk Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 60.36s
+<<File: /root/Similar_domain_name_detection/file/hawaii.gov Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 87.97s
+<<File: /root/Similar_domain_name_detection/file/orthocarolina.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 24.91s
+<<File: /root/Similar_domain_name_detection/file/well.company Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 28.04s
+<<File: /root/Similar_domain_name_detection/file/state.nv.us Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 41.50s
+<<File: /root/Similar_domain_name_detection/file/oanj.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 68.29s
+<<File: /root/Similar_domain_name_detection/file/crihan.fr Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 75.23s
+<<File: /root/Similar_domain_name_detection/file/nisuscorp.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 116.56s
+<<File: /root/Similar_domain_name_detection/file/daycon.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 71.74s
+<<File: /root/Similar_domain_name_detection/file/forshaw.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 62.66s
+<<File: /root/Similar_domain_name_detection/file/crcorp.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 95.65s
+<<File: /root/Similar_domain_name_detection/file/disarp.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 28.86s
+<<File: /root/Similar_domain_name_detection/file/cnr.it Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 109.94s
+<<File: /root/Similar_domain_name_detection/file/shinetsusilicones.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 62.71s
+<<File: /root/Similar_domain_name_detection/file/la-mesta.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 64.94s
+<<File: /root/Similar_domain_name_detection/file/u-picardie.fr Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 54.98s
+<<File: /root/Similar_domain_name_detection/file/kayakuam.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 44.25s
+<<File: /root/Similar_domain_name_detection/file/flash.nl Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 90.14s
+<<File: /root/Similar_domain_name_detection/file/excell-living.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 47.51s
+<<File: /root/Similar_domain_name_detection/file/pontetorto.it Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 116.48s
+<<File: /root/Similar_domain_name_detection/file/sunham.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+/root/Similar_domain_name_detection/dependent_function.py:74: FutureWarning: Inferring datetime64[ns, pytz.FixedOffset(660)] from data containing strings is deprecated and will be removed in a future version. To retain the old behavior explicitly pass Series(data, dtype=datetime64[ns, pytz.FixedOffset(660)])
+  pd.DataFrame(domains).to_csv(f_name, index=False, encoding="utf-8")
+/root/Similar_domain_name_detection/dependent_function.py:74: FutureWarning: Inferring datetime64[ns, pytz.FixedOffset(600)] from data containing strings is deprecated and will be removed in a future version. To retain the old behavior explicitly pass Series(data, dtype=datetime64[ns, pytz.FixedOffset(600)])
+  pd.DataFrame(domains).to_csv(f_name, index=False, encoding="utf-8")
+Total program time 111.00s
+<<File: /root/Similar_domain_name_detection/file/brutex.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 70.70s
+<<File: /root/Similar_domain_name_detection/file/johnritz.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
+Total program time 100.82s
+<<File: /root/Similar_domain_name_detection/file/westchesterlace.com Similar domain name.csv Saved successfully
+>> 5
+<<File: /root/Similar_domain_name_detection/file/2023-6.csv Written successfully
